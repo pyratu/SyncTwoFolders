@@ -9,27 +9,18 @@
 
 🌟 Key Features:
 
-🔁 Automated Synchronization: Keep directories harmonized effortlessly as FileSync intelligently adds and removes files.
+🔁 Automated Synchronization: Keep directories synced effortlessly as FileSync adds and/or removes files.
 
 📜 Comprehensive Logging: Gain insights into every synchronization action with detailed timestamps and event descriptions.
 
 ⚙️ Customizable Settings: Tailor synchronization behavior with adjustable settings, including time intervals and directory paths.
-
-📚 How to Use FileSync:
-Clone the Repository: Begin by cloning this repository to your local machine.
-
-Compile and Run: Use your preferred C# development environment to compile and run the FileSync application.
-
-Configure Settings: Follow prompts to set synchronization preferences, directory paths, and logging destinations.
-
-Experience Seamless Synchronization: Observe as FileSync maintains seamless harmony between your chosen directories.
 
 ⚡ Requirements:
 .NET Framework or .NET Core runtime
 C# development environment
 
 ✨ Contributing:
-We welcome contributions that enhance the power of FileSync. Whether you identify bugs or envision enhancements, submit your findings as issues or create pull requests.
+While FileSync is a solo project, I appreciate any efforts to enhance its capabilities. If you come across any bugs or have ideas for improvements, don't hesitate to open an issue. Your contributions can help refine FileSync for the community's benefit.
 
 📜 License:
 FileSync operates under the MIT License, granting you the freedom to incorporate its capabilities into your projects.
