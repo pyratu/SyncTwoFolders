@@ -13,7 +13,7 @@ namespace CompareTwoFiles
 		static void Main(string[] args)
 		{
 			Console.Write("Type the time to wait for sync in seconds: ");
-			GlobalVariables.timeToWait = int.Parse(Console.ReadLine())*1000;
+			GlobalVariables.timeToWait = int.Parse(Console.ReadLine()) * 1000; // it is *1000 because Thread.Sleep() is in miliseconds. If user type 5 it will be 5000 miliseconds -> 5 seconds
 
 			Console.Write("Type the main path folder: ");
 			GlobalVariables.mainPath = @"" + Console.ReadLine() + @"\";
